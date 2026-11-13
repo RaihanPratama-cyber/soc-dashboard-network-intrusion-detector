@@ -1,0 +1,277 @@
+timestamp,src_mac,dst_mac,src_ip,dst_ip,src_port,dst_port,protocol,frame_len,info,label,port
+2026-11-12T10:00:00,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49152,443,TCP,120,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:03,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49153,443,TCP,121,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:06,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49154,443,TCP,122,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:09,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49155,443,TCP,123,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:12,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49156,443,TCP,124,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:15,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49157,443,TCP,125,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:18,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49158,443,TCP,126,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:21,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49159,443,TCP,127,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:24,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49160,443,TCP,128,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:27,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49161,443,TCP,129,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:30,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49162,443,TCP,130,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:33,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49163,443,TCP,131,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:36,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49164,443,TCP,132,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:39,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49165,443,TCP,133,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:42,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49166,443,TCP,134,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:45,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49167,443,TCP,135,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:48,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49168,443,TCP,136,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:51,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49169,443,TCP,137,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:54,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49170,443,TCP,138,TLS Application Data,normal,Fa0/1
+2026-11-12T10:00:57,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49171,443,TCP,139,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:00,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49172,443,TCP,140,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:03,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49173,443,TCP,141,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:06,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49174,443,TCP,142,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:09,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49175,443,TCP,143,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:12,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49176,443,TCP,144,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:15,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49177,443,TCP,145,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:18,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49178,443,TCP,146,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:21,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49179,443,TCP,147,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:24,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49180,443,TCP,148,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:27,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49181,443,TCP,149,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:30,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49182,443,TCP,150,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:33,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49183,443,TCP,151,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:36,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49184,443,TCP,152,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:39,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49185,443,TCP,153,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:42,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49186,443,TCP,154,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:45,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49187,443,TCP,155,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:48,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49188,443,TCP,156,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:51,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49189,443,TCP,157,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:54,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49190,443,TCP,158,TLS Application Data,normal,Fa0/1
+2026-11-12T10:01:57,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,10.10.1.13,49191,443,TCP,159,TLS Application Data,normal,Fa0/1
+2026-11-12T10:02:00,39:0c:8c:7d:72:47,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:01,34:2c:d8:10:0f:2f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:02,6f:77:0d:65:d6:70,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:03,e5:8e:03:51:d8:ae,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:04,8e:4f:6e:ac:34:2f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:05,c2:31:b7:b0:87:16,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:06,eb:3f:c1:28:96:b9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:07,62:23:17:74:94:28,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:08,77:33:c2:8e:e8:ba,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:09,53:bd:b5:6b:88:24,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:10,57:7d:53:ec:c2:8a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:11,70:a6:1c:75:10:a1,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:12,cd:89:21:6c:a1:6c,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:13,ff:ca:ea:49:87:47,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:14,7e:86:db:cc:b9:70,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:15,46:fc:2e:18:38:4e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:16,51:d8:20:c5:c3:ef,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:17,80:05:3a:88:ae:39,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:18,96:de:50:e8:01:86,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:19,5b:36:98:65:4e:bf,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:20,52:00:a5:fa:09:39,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:21,b9:9d:7a:1d:7b:28,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:22,2b:f8:23:40:41:f3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:23,54:87:d8:6c:66:9f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:24,cc:bf:e0:e7:3d:7e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:25,73:20:ad:0a:75:70,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:26,03:24:1e:75:22:10,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:27,a9:24:79:8e:f8:6d,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:28,43:f2:7c:f2:d0:61,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:29,30:31:dc:b5:d8:d2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:30,ef:1b:32:1f:ce:ad,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:31,37:7f:62:61:e5:47,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:32,d8:5d:8e:ec:7f:26,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:33,e2:32:19:07:2f:79,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:34,55:d0:f8:f6:6d:cd,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:35,1e:54:c2:01:c7:87,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:36,e8:92:d8:f9:4f:61,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:37,97:6f:1d:1f:a0:1d,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:38,19:f4:50:1d:29:5f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:39,23:22:78:ce:3d:7e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:40,14:29:d6:a1:85:68,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:41,a0:7a:87:ca:43:99,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:42,ea:a1:25:04:ea:33,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:43,25:6d:87:43:b2:23,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:44,7d:bd:91:50:e0:9a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:45,04:99:35:44:87:3b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:46,36:4f:8b:90:6b:af,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:47,68:87:fa:80:1a:2f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:48,d8:8d:16:01:aa:42,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:49,86:52:e2:da:04:39,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:50,26:4c:12:bd:4b:dc,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:51,41:15:9d:ba:14:b7,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:52,6b:7f:34:b5:d0:4f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:53,79:53:5a:d3:0c:5b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:54,aa:d2:7f:88:51:37,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:55,c3:13:f0:71:66:eb,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:56,b3:9c:74:72:0c:62,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:57,cc:a8:8e:23:8e:b3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:58,cc:a9:0e:3b:85:5b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:02:59,87:13:37:de:b0:a0,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,0,0,Ethernet,54,"macof forged frame, 54 bytes",mac_flooding,Fa0/1
+2026-11-12T10:03:00,df:3b:c5:61:82:16,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x643c9869,dhcp_starvation,Fa0/1
+2026-11-12T10:03:00,00:64:ba:dc:23:a9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xb572f3d0,dhcp_starvation,Fa0/1
+2026-11-12T10:03:01,3f:99:9e:d1:a7:ce,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x9f871ce7,dhcp_starvation,Fa0/1
+2026-11-12T10:03:01,41:62:d7:c2:59:9a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xb27c4026,dhcp_starvation,Fa0/1
+2026-11-12T10:03:02,9b:92:6b:dc:a4:ee,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xd56f0350,dhcp_starvation,Fa0/1
+2026-11-12T10:03:02,6d:f2:56:2b:91:ab,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x7118e364,dhcp_starvation,Fa0/1
+2026-11-12T10:03:03,65:4b:0c:17:7d:f3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x4f77a665,dhcp_starvation,Fa0/1
+2026-11-12T10:03:03,e9:d4:63:c4:fd:cc,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xc4bbb7a9,dhcp_starvation,Fa0/1
+2026-11-12T10:03:04,02:36:d9:70:5a:ed,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3e75c3b4,dhcp_starvation,Fa0/1
+2026-11-12T10:03:04,e9:44:ed:a2:e2:da,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xd92c9227,dhcp_starvation,Fa0/1
+2026-11-12T10:03:05,51:f3:e6:84:7e:8d,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x8c41561b,dhcp_starvation,Fa0/1
+2026-11-12T10:03:05,7a:8c:e1:27:92:78,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x8573e793,dhcp_starvation,Fa0/1
+2026-11-12T10:03:06,a3:29:46:4d:76:c4,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x458f1f19,dhcp_starvation,Fa0/1
+2026-11-12T10:03:06,6d:20:d4:d0:a9:ee,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xb1a6b1f1,dhcp_starvation,Fa0/1
+2026-11-12T10:03:07,69:d7:c7:0a:c2:f4,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6a702e2f,dhcp_starvation,Fa0/1
+2026-11-12T10:03:07,c7:d6:70:f9:70:8b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5a0cdd7c,dhcp_starvation,Fa0/1
+2026-11-12T10:03:08,0e:c7:ac:cf:54:ef,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6f92f25e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:08,0d:c9:0d:2a:db:45,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xeb67146a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:09,5d:19:85:c2:a7:6c,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xdde9f863,dhcp_starvation,Fa0/1
+2026-11-12T10:03:09,ac:c2:8e:d7:81:29,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x74672cd9,dhcp_starvation,Fa0/1
+2026-11-12T10:03:10,1a:b3:72:23:14:0f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x78660765,dhcp_starvation,Fa0/1
+2026-11-12T10:03:10,66:0a:4e:7a:40:f2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xf319c125,dhcp_starvation,Fa0/1
+2026-11-12T10:03:11,6f:ee:83:bc:55:3a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xab61a7b1,dhcp_starvation,Fa0/1
+2026-11-12T10:03:11,0d:9f:c0:cb:65:26,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x4fa03f26,dhcp_starvation,Fa0/1
+2026-11-12T10:03:12,9a:3d:15:b1:db:bd,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3e2b6091,dhcp_starvation,Fa0/1
+2026-11-12T10:03:12,06:d7:fa:36:dd:b9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa5c5650c,dhcp_starvation,Fa0/1
+2026-11-12T10:03:13,4e:de:5a:8a:f7:ee,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xd4262982,dhcp_starvation,Fa0/1
+2026-11-12T10:03:13,7d:2c:8e:e6:7c:ed,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x44b591f7,dhcp_starvation,Fa0/1
+2026-11-12T10:03:14,ac:0e:fd:a6:5d:f9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xab0e664e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:14,84:ae:8f:8d:05:61,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x364d7c87,dhcp_starvation,Fa0/1
+2026-11-12T10:03:15,d0:fa:7b:f3:fb:e5,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x15eabb27,dhcp_starvation,Fa0/1
+2026-11-12T10:03:15,2f:96:71:cf:7c:9c,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xcafda613,dhcp_starvation,Fa0/1
+2026-11-12T10:03:16,b0:d9:a9:b4:e8:8a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5e781fd7,dhcp_starvation,Fa0/1
+2026-11-12T10:03:16,76:3d:62:a1:3d:5e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x4e7ed827,dhcp_starvation,Fa0/1
+2026-11-12T10:03:17,f7:8d:90:33:63:97,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3108d448,dhcp_starvation,Fa0/1
+2026-11-12T10:03:17,5b:9a:07:40:8c:17,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3a3c563e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:18,95:40:fb:34:06:91,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xf96b648a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:18,e1:ae:5e:1a:81:f4,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x782a65e0,dhcp_starvation,Fa0/1
+2026-11-12T10:03:19,fb:25:1b:4d:4c:9b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x10ba58e3,dhcp_starvation,Fa0/1
+2026-11-12T10:03:19,d5:73:c2:e6:e2:98,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3f897142,dhcp_starvation,Fa0/1
+2026-11-12T10:03:20,9c:1e:32:6a:6c:87,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xfd72b050,dhcp_starvation,Fa0/1
+2026-11-12T10:03:20,50:7a:58:26:50:01,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa911d192,dhcp_starvation,Fa0/1
+2026-11-12T10:03:21,f0:95:10:76:93:90,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x68949b8d,dhcp_starvation,Fa0/1
+2026-11-12T10:03:21,77:87:65:d9:3a:73,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x743b65a2,dhcp_starvation,Fa0/1
+2026-11-12T10:03:22,88:48:24:1e:54:9d,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa5cb63a2,dhcp_starvation,Fa0/1
+2026-11-12T10:03:22,e0:3f:ef:9b:ce:8b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xebd34616,dhcp_starvation,Fa0/1
+2026-11-12T10:03:23,29:14:dd:a5:80:0d,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x7e695d0d,dhcp_starvation,Fa0/1
+2026-11-12T10:03:23,0a:89:14:59:f0:e2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x176132ed,dhcp_starvation,Fa0/1
+2026-11-12T10:03:24,5c:df:fb:2e:f0:b2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xea83bf00,dhcp_starvation,Fa0/1
+2026-11-12T10:03:24,a4:35:52:a8:d2:fd,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6889803e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:25,12:e8:2d:a1:81:a5,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xf1f8343e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:25,00:ec:d3:1b:60:b9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xc5c5b37a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:26,88:43:93:e0:f8:3e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x0d366dfc,dhcp_starvation,Fa0/1
+2026-11-12T10:03:26,51:9f:07:d0:2f:73,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xcc9fd334,dhcp_starvation,Fa0/1
+2026-11-12T10:03:27,ec:3c:4e:ff:95:8b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xe9b5c5cf,dhcp_starvation,Fa0/1
+2026-11-12T10:03:27,e9:4a:c4:61:45:23,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x78e3654b,dhcp_starvation,Fa0/1
+2026-11-12T10:03:28,88:01:90:98:fa:4c,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6a39aaa6,dhcp_starvation,Fa0/1
+2026-11-12T10:03:28,aa:c1:e9:a4:60:7a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x7bfdcc12,dhcp_starvation,Fa0/1
+2026-11-12T10:03:29,77:d2:16:a2:f2:c3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x9261549d,dhcp_starvation,Fa0/1
+2026-11-12T10:03:29,fd:12:40:a9:33:e1,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xfb16e5db,dhcp_starvation,Fa0/1
+2026-11-12T10:03:30,07:49:d1:4f:26:f0,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xe912b4bf,dhcp_starvation,Fa0/1
+2026-11-12T10:03:30,cb:29:a8:c2:a2:f9,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x43d88870,dhcp_starvation,Fa0/1
+2026-11-12T10:03:31,93:74:2e:de:32:33,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x118405ad,dhcp_starvation,Fa0/1
+2026-11-12T10:03:31,99:0e:17:a6:1c:96,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x7194eae2,dhcp_starvation,Fa0/1
+2026-11-12T10:03:32,dc:4a:7d:d2:5c:57,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5bc440f1,dhcp_starvation,Fa0/1
+2026-11-12T10:03:32,c3:7b:fe:49:76:ec,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x2cd1586a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:33,eb:82:04:ee:93:50,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa34db7c5,dhcp_starvation,Fa0/1
+2026-11-12T10:03:33,b0:99:d9:80:e9:9a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x12e89d10,dhcp_starvation,Fa0/1
+2026-11-12T10:03:34,79:c3:b7:97:97:0b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x7bb38605,dhcp_starvation,Fa0/1
+2026-11-12T10:03:34,8c:04:19:fe:92:75,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa881bfd3,dhcp_starvation,Fa0/1
+2026-11-12T10:03:35,61:80:46:31:14:9e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5a31b4cc,dhcp_starvation,Fa0/1
+2026-11-12T10:03:35,11:ba:43:2e:97:a7,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xc9e26074,dhcp_starvation,Fa0/1
+2026-11-12T10:03:36,59:66:43:bb:8b:54,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xbf5ae7e6,dhcp_starvation,Fa0/1
+2026-11-12T10:03:36,ad:3a:ef:26:48:73,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xce7607ad,dhcp_starvation,Fa0/1
+2026-11-12T10:03:37,bb:2e:ca:07:87:3f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xfadd7ea3,dhcp_starvation,Fa0/1
+2026-11-12T10:03:37,86:c3:be:37:77:f1,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x746cdb77,dhcp_starvation,Fa0/1
+2026-11-12T10:03:38,71:20:ed:9a:d1:3b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x8fb864e4,dhcp_starvation,Fa0/1
+2026-11-12T10:03:38,13:9b:fc:3b:31:78,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x23c86d30,dhcp_starvation,Fa0/1
+2026-11-12T10:03:39,e8:bd:d6:4f:d4:32,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x22bae10e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:39,d0:8f:10:bd:6f:e3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xd56ce8ea,dhcp_starvation,Fa0/1
+2026-11-12T10:03:40,bc:b7:1f:cb:8d:61,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5cd8fe1a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:40,e8:2e:6c:0a:19:aa,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xf7dc67e0,dhcp_starvation,Fa0/1
+2026-11-12T10:03:41,23:6a:6e:77:a8:4b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x90882eaf,dhcp_starvation,Fa0/1
+2026-11-12T10:03:41,8d:4a:42:80:59:38,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x989240ac,dhcp_starvation,Fa0/1
+2026-11-12T10:03:42,07:b7:79:a5:08:59,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x06998731,dhcp_starvation,Fa0/1
+2026-11-12T10:03:42,40:d7:3a:20:f3:e5,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x43ef2016,dhcp_starvation,Fa0/1
+2026-11-12T10:03:43,37:e7:71:16:9a:ea,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xc72c1fe3,dhcp_starvation,Fa0/1
+2026-11-12T10:03:43,f5:cd:da:37:fb:e3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x07f97d05,dhcp_starvation,Fa0/1
+2026-11-12T10:03:44,4b:21:40:8c:a6:c3,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x14aeaf5c,dhcp_starvation,Fa0/1
+2026-11-12T10:03:44,e8:dc:32:3a:6e:dc,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x87d292a6,dhcp_starvation,Fa0/1
+2026-11-12T10:03:45,ad:e8:cc:d4:30:a0,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x3a7e8e14,dhcp_starvation,Fa0/1
+2026-11-12T10:03:45,82:bf:4e:f2:22:2e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6d4067f4,dhcp_starvation,Fa0/1
+2026-11-12T10:03:46,2f:dd:31:be:42:1e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xd4ef00aa,dhcp_starvation,Fa0/1
+2026-11-12T10:03:46,b5:d8:1a:93:9f:b4,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x1f4a8ca1,dhcp_starvation,Fa0/1
+2026-11-12T10:03:47,4f:f6:72:37:b3:bc,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x81e5c9f6,dhcp_starvation,Fa0/1
+2026-11-12T10:03:47,88:0e:5c:8b:9e:ad,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x8e867f3c,dhcp_starvation,Fa0/1
+2026-11-12T10:03:48,5c:49:cd:23:48:0f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x59dcabd0,dhcp_starvation,Fa0/1
+2026-11-12T10:03:48,c0:d6:e8:ae:50:bd,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x87cdb6a1,dhcp_starvation,Fa0/1
+2026-11-12T10:03:49,1a:4f:50:19:29:8b,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x98a21f1c,dhcp_starvation,Fa0/1
+2026-11-12T10:03:49,e2:d4:8b:6e:3a:b0,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6c8c3b6a,dhcp_starvation,Fa0/1
+2026-11-12T10:03:50,91:f9:9d:17:70:ca,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x6e0ed1e8,dhcp_starvation,Fa0/1
+2026-11-12T10:03:50,68:9a:6c:46:82:94,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x0e0630cd,dhcp_starvation,Fa0/1
+2026-11-12T10:03:51,03:fe:dc:59:42:c2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x53ffd3a2,dhcp_starvation,Fa0/1
+2026-11-12T10:03:51,cb:15:df:09:eb:27,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5aaab32f,dhcp_starvation,Fa0/1
+2026-11-12T10:03:52,db:cf:d5:94:3a:cf,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xdcb33df3,dhcp_starvation,Fa0/1
+2026-11-12T10:03:52,eb:b9:2d:df:36:7c,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x532401fc,dhcp_starvation,Fa0/1
+2026-11-12T10:03:53,9e:ad:71:aa:56:27,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x1422373f,dhcp_starvation,Fa0/1
+2026-11-12T10:03:53,b2:b3:4b:78:34:4a,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x828c37e7,dhcp_starvation,Fa0/1
+2026-11-12T10:03:54,58:4e:26:5a:fc:ed,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x4187222b,dhcp_starvation,Fa0/1
+2026-11-12T10:03:54,a1:4d:e1:22:f0:e2,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x9fe0a8c7,dhcp_starvation,Fa0/1
+2026-11-12T10:03:55,8c:1c:b4:25:9e:ec,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xa1a27485,dhcp_starvation,Fa0/1
+2026-11-12T10:03:55,1d:bc:92:27:2e:c4,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x73b0a091,dhcp_starvation,Fa0/1
+2026-11-12T10:03:56,e6:60:a4:f3:4d:1f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xe5582e16,dhcp_starvation,Fa0/1
+2026-11-12T10:03:56,af:2b:58:14:7e:e0,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x73557b9d,dhcp_starvation,Fa0/1
+2026-11-12T10:03:57,51:ba:be:90:c6:d1,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xfdb1429e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:57,1a:ab:21:a8:30:c5,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0xc6435300,dhcp_starvation,Fa0/1
+2026-11-12T10:03:58,4c:aa:29:48:b3:9e,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x48bddb3e,dhcp_starvation,Fa0/1
+2026-11-12T10:03:58,2b:9e:c0:a8:41:2f,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x64575bc4,dhcp_starvation,Fa0/1
+2026-11-12T10:03:59,b9:9e:5c:6d:ae:f8,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x5ca0c428,dhcp_starvation,Fa0/1
+2026-11-12T10:03:59,46:4f:27:97:33:13,ff:ff:ff:ff:ff:ff,0.0.0.0,255.255.255.255,68,67,DHCP,342,DHCP Discover - Transaction ID 0x31274148,dhcp_starvation,Fa0/1
+2026-11-12T10:04:00,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:00,00:1a:2b:3c:4d:5e,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13,normal,Fa0/1
+2026-11-12T10:04:05,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:10,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:12,00:1a:2b:3c:4d:5e,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13,normal,Fa0/1
+2026-11-12T10:04:15,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:20,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:24,00:1a:2b:3c:4d:5e,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13,normal,Fa0/1
+2026-11-12T10:04:25,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:30,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:35,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:36,00:1a:2b:3c:4d:5e,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13,normal,Fa0/1
+2026-11-12T10:04:40,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:45,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:50,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:04:55,aa:bb:cc:11:22:33,ff:ff:ff:ff:ff:ff,10.10.1.11,10.10.1.13,0,0,ARP,42,Who has 10.10.1.11? Tell 10.10.1.13 (gratuitous ARP reply),arp_poisoning,Fa0/1
+2026-11-12T10:05:00,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40000,21,TCP,60,TCP SYN to port 21,port_scan,Fa0/1
+2026-11-12T10:05:02,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40001,22,TCP,60,TCP SYN to port 22,port_scan,Fa0/1
+2026-11-12T10:05:04,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40002,23,TCP,60,TCP SYN to port 23,port_scan,Fa0/1
+2026-11-12T10:05:06,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40003,25,TCP,60,TCP SYN to port 25,port_scan,Fa0/1
+2026-11-12T10:05:08,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40004,53,TCP,60,TCP SYN to port 53,port_scan,Fa0/1
+2026-11-12T10:05:10,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40005,80,TCP,60,TCP SYN to port 80,port_scan,Fa0/1
+2026-11-12T10:05:12,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40006,110,TCP,60,TCP SYN to port 110,port_scan,Fa0/1
+2026-11-12T10:05:14,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40007,135,TCP,60,TCP SYN to port 135,port_scan,Fa0/1
+2026-11-12T10:05:16,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40008,139,TCP,60,TCP SYN to port 139,port_scan,Fa0/1
+2026-11-12T10:05:18,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40009,143,TCP,60,TCP SYN to port 143,port_scan,Fa0/1
+2026-11-12T10:05:20,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40010,443,TCP,60,TCP SYN to port 443,port_scan,Fa0/1
+2026-11-12T10:05:22,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40011,445,TCP,60,TCP SYN to port 445,port_scan,Fa0/1
+2026-11-12T10:05:24,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40012,993,TCP,60,TCP SYN to port 993,port_scan,Fa0/1
+2026-11-12T10:05:26,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40013,995,TCP,60,TCP SYN to port 995,port_scan,Fa0/1
+2026-11-12T10:05:28,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40014,1723,TCP,60,TCP SYN to port 1723,port_scan,Fa0/1
+2026-11-12T10:05:30,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40015,3306,TCP,60,TCP SYN to port 3306,port_scan,Fa0/1
+2026-11-12T10:05:32,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40016,3389,TCP,60,TCP SYN to port 3389,port_scan,Fa0/1
+2026-11-12T10:05:34,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40017,5432,TCP,60,TCP SYN to port 5432,port_scan,Fa0/1
+2026-11-12T10:05:36,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40018,5900,TCP,60,TCP SYN to port 5900,port_scan,Fa0/1
+2026-11-12T10:05:38,aa:bb:cc:11:22:33,00:1a:2b:3c:4d:5f,10.10.1.99,10.10.1.13,40019,8080,TCP,60,TCP SYN to port 8080,port_scan,Fa0/1
+2026-11-12T10:06:00,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49152,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:03,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49153,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:06,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49154,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:09,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49155,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:12,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49156,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:15,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49157,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:18,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49158,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:21,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49159,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:24,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49160,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:27,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49161,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:30,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49162,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:33,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49163,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:36,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49164,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:39,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49165,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:42,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49166,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:45,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49167,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:48,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49168,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:51,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49169,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:54,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49170,53,UDP,78,Standard query A,normal,Fa0/1
+2026-11-12T10:06:57,00:1a:2b:3c:4d:5e,00:1a:2b:3c:4d:5f,10.10.1.11,8.8.8.8,49171,53,UDP,78,Standard query A,normal,Fa0/1

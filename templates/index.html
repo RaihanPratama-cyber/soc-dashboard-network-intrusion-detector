@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Overview{% endblock %}
+{% block content %}
+<h1>Overview — Lab Network</h1>
+<p class="subtitle">Dataset contoh: 12 Nov 2026, 10:00–10:06 WIB · lab 10.10.1.0/24 · data simulasi dari praktikum WKJ</p>
+
+<section class="cards">
+  <div class="card"><div class="num">{{ summary.total_packets }}</div><div class="lbl">Paket dianalisis</div></div>
+  <div class="card danger"><div class="num">{{ summary.total_alerts }}</div><div class="lbl">Alert terdeteksi</div></div>
+  <div class="card critical"><div class="num">{{ summary.by_severity.critical }}</div><div class="lbl">Critical</div></div>
+  <div class="card warn"><div class="num">{{ summary.by_severity.high }}</div><div class="lbl">High</div></div>
+  <div class="card"><div class="num">{{ summary.unique_src_ips }}</div><div class="lbl">IP sumber unik</div></div>
+  <div class="card"><div class="num">{{ summary.unique_src_macs }}</div><div class="lbl">MAC sumber unik</div></div>
+</section>
+
+<section class="panel">
+  <h2>Paket per menit</h2>
+  <canvas id="timeline" width="900" height="220"
+          data-points='{{ timeline | tojson }}'></canvas>
+  <p class="hint">Lonjakan 10:02–10:05 = serangan MAC flooding, DHCP starvation, ARP poisoning, dan port scan.</p>
+</section>
+
+<section class="panel">
+  <h2>Alert terbaru</h2>
+  <table>
+    <thead><tr><th>Severity</th><th>Alert</th><th>Rule</th><th>Sumber</th><th>Pertama terlihat</th></tr></thead>
+    <tbody>
+      {% for a in alerts %}
+      <tr>
+        <td><span class="sev sev-{{ a.severity }}">{{ a.severity }}</span></td>
+        <td><a href="{{ url_for('alerts_page') }}#{{ a.id }}">{{ a.title }}</a></td>
+        <td><code>{{ a.rule }}</code></td>
+        <td><code>{{ a.source }}</code></td>
+        <td>{{ a.first_seen }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="panel">
+  <h2>Paket per protokol</h2>
+  <ul class="proto">
+    {% for proto, count in summary.by_protocol.items() %}
+    <li><code>{{ proto }}</code> — {{ count }} paket</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

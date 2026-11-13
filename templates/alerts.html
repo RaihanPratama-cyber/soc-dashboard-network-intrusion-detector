@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Alerts{% endblock %}
+{% block content %}
+<h1>Alerts</h1>
+<p class="subtitle">{{ summary.total_alerts }} alert dari dataset contoh. Setiap alert mencantumkan rule dan bukti yang memicunya.</p>
+{% for a in alerts %}
+<article class="alert alert-{{ a.severity }}" id="{{ a.id }}">
+  <header>
+    <span class="sev sev-{{ a.severity }}">{{ a.severity }}</span>
+    <h2>{{ a.title }}</h2>
+    <code class="rule">{{ a.rule }}</code>
+  </header>
+  <dl>
+    <dt>Sumber</dt><dd><code>{{ a.source }}</code></dd>
+    <dt>Pertama terlihat</dt><dd>{{ a.first_seen }}</dd>
+    <dt>Terakhir terlihat</dt><dd>{{ a.last_seen }}</dd>
+  </dl>
+  <p class="evidence"><strong>Bukti:</strong> {{ a.evidence }}</p>
+</article>
+{% else %}
+<p>Tidak ada alert — lalu lintas terlihat normal.</p>
+{% endfor %}
+{% endblock %}

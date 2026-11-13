@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Logs{% endblock %}
+{% block content %}
+<h1>Logs — Paket</h1>
+<p class="subtitle">{{ summary.total_packets }} baris dari <code>data/sample_attacks.csv</code>. Kolom <code>label</code> adalah label simulasi (ground truth), bukan hasil detektor.</p>
+<div class="table-scroll">
+<table>
+  <thead><tr><th>Waktu</th><th>Src MAC</th><th>Src IP</th><th>Dst IP</th><th>Port</th><th>Proto</th><th>Len</th><th>Info</th><th>Label</th></tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr class="label-{{ r.label }}">
+      <td>{{ r.timestamp }}</td>
+      <td><code>{{ r.src_mac }}</code></td>
+      <td><code>{{ r.src_ip }}</code></td>
+      <td><code>{{ r.dst_ip }}</code></td>
+      <td>{{ r.src_port }} → {{ r.dst_port }}</td>
+      <td>{{ r.protocol }}</td>
+      <td>{{ r.frame_len }}</td>
+      <td>{{ r.info }}</td>
+      <td><span class="tag">{{ r.label }}</span></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}SOC Dashboard{% endblock %} — Network Intrusion Detector</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">🛡️ SOC Dashboard <span>Network Intrusion Detector</span></div>
+    <nav>
+      <a href="{{ url_for('overview') }}" class="{% if request.path == '/' %}active{% endif %}">Overview</a>
+      <a href="{{ url_for('alerts_page') }}" class="{% if request.path == '/alerts' %}active{% endif %}">Alerts <span class="badge">{{ summary.by_severity.critical + summary.by_severity.high }}</span></a>
+      <a href="{{ url_for('logs_page') }}" class="{% if request.path == '/logs' %}active{% endif %}">Logs</a>
+    </nav>
+  </header>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <footer>
+    Data contoh simulasi (lab WKJ) — alat edukasi, bukan IDS produksi.
+    <a href="https://github.com/RaihanPratama-cyber/soc-dashboard-network-intrusion-detector">GitHub</a>
+  </footer>
+  <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>
